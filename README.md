@@ -1,4 +1,4 @@
-# Simple Search Bar**
+# <div align="center">Simple Search Bar</div>
 
 - - - 
 
